@@ -1,2 +1,0 @@
-# resume
-Assignment 1
